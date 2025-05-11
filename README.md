@@ -1,5 +1,3 @@
-# ibrahim-demo
-
 #include<iostream>
 #include<string>
 #include<cmath>
